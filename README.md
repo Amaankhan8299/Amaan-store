@@ -31,7 +31,7 @@ Feel free to share your observations with me.
 [Live Demo](https://Amaan store-website-react-redux.vercel.app/)
 
 ## Website Overview
-<img width="905" alt="image" src="https://github.com/rajakhan017/Amaan store-Website-React-Redux-/assets/135150598/483f9bec-206b-4cfd-9e86-4b93d89e38b1">
+<img width="905" alt="image" src="https://github.com/rajakhan017/Amaan-store-Website-React-Redux-/assets/135150598/483f9bec-206b-4cfd-9e86-4b93d89e38b1">
 
 
 ## Screenshots
